@@ -5,4 +5,4 @@
 
 long eliminate_unset_bits(std::string BinNumber);
 
-#endif // ELIMINATE_UNSET_BITS_H
+#endif
