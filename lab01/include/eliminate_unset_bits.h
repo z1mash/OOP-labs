@@ -3,6 +3,6 @@
 
 #include <string>
 
-long eliminate_unset_bits(std::string BinNumber);
+long eliminate_unset_bits(std::string binaryNumber);
 
 #endif

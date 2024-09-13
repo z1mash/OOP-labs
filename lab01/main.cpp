@@ -4,9 +4,9 @@ using namespace std;
 
 int main() 
 { 
-    string BinNumber; 
-    cin >> BinNumber; 
-    cout << eliminate_unset_bits(BinNumber) << endl; 
+    string binaryNumber; 
+    cin >> binaryNumber; 
+    cout << eliminate_unset_bits(binaryNumber) << endl; 
 
     return 0; 
 }
