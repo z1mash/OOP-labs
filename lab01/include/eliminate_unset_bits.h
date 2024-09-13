@@ -1,6 +1,8 @@
-#pragma once 
+#ifndef ELIMINATE_UNSET_BITS_H
+#define ELIMINATE_UNSET_BITS_H
 
-#include <string> 
-using namespace std; 
+#include <string>
 
-long eliminate_unset_bits(string BinNumber);
+long eliminate_unset_bits(std::string BinNumber);
+
+#endif // ELIMINATE_UNSET_BITS_H
