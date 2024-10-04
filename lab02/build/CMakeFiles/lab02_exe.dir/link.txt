@@ -1,0 +1,1 @@
+/usr/local/bin/c++ CMakeFiles/lab02_exe.dir/main.cpp.o -o lab02_exe  liblab02_lib.a 

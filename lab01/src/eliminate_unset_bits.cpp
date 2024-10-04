@@ -1,10 +1,9 @@
 #include "../include/eliminate_unset_bits.h" 
 #include <cmath>
-using namespace std; 
 
-long eliminate_unset_bits(string binaryNumber) 
+long eliminate_unset_bits(std::string binaryNumber) 
 { 
-    string filteredBinaryNumber = ""; 
+    std::string filteredBinaryNumber = ""; 
     for (int i = 0; i < binaryNumber.size(); ++i) 
     { 
         if (binaryNumber[i] == '1') filteredBinaryNumber += binaryNumber[i]; 
