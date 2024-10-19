@@ -215,7 +215,7 @@ bool Seven::operator == (const Seven& other)
 {
     if (s_size != other.s_size) return false;  // Если размеры разные, числа не равны
  
-    for (int i = s_size - 1; i >= 0; --i) 
+    for (int i = s_size - 1; i >= 0; --i)
     {
         if (s_array[i] != other.s_array[i]) return false;  // Сравниваем цифры с конца
     }

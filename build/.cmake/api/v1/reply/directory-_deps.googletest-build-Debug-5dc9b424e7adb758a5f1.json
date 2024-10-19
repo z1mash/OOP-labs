@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/googletest-build",
+		"source" : "C:/Users/\u041c\u0430\u0440\u0438\u044f/Desktop/oop/build/_deps/googletest-src"
+	}
+}
